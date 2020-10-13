@@ -15,4 +15,8 @@
  ### latex:
  
  
+ ### quick project website:
+ 
+  * jekyll: https://jekyllrb.com/docs/step-by-step/01-setup/
+  * jemdoc: http://jemdoc.jaboc.net/
  
