@@ -1,4 +1,8 @@
-# common-skills for research
+# Rutgers DB Group - Common Skills for research
+
+### c++
+ * follow google code style as much as you can : https://google.github.io/styleguide/cppguide.html
+ * check if you code comply google code style: https://github.com/cpplint/cpplint
 
 ### cmake: 
  * a tutorial: https://cliutils.gitlab.io/modern-cmake/
