@@ -1,7 +1,6 @@
 # Rutgers DB Group - Common Skills for research
 
 ### Savage's approach to research, via Mosteller:
-
  * As soon as a problem is stated, start right away to solve it. Use simple examples.
  * Keep starting from first principles, explaining again and again what you are trying to do.
  * Believe that this problem can be solved and that you will enjoy working it out.
@@ -9,7 +8,12 @@
  * Work an hour or so on it frequently.
  * Talk about it; explain it to other people.
 
-### c++
+### recommended software
+ * C++ IDE: VS Code
+ * Latex Editor: Texpad
+
+### C++
+ * document code using Doxygen
  * follow google code style as much as you can : https://google.github.io/styleguide/cppguide.html
  * check if you code comply google code style: https://github.com/cpplint/cpplint
 
